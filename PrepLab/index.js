@@ -1,3 +1,4 @@
+require('./models/db')
 var express = require('express');
 var app=express();
 
